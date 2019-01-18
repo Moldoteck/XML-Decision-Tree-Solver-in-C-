@@ -1,0 +1,185 @@
+<decizie>
+	<optiune titlu="Do nothing">
+		<cheltuieli>
+			0
+		</cheltuieli>
+		<cerere>
+			<mare>
+				<ani>
+					1
+				</ani>
+				<venit>
+					0
+				</venit>
+				
+				<probabilitate>
+					1
+				</probabilitate>
+				<total>
+				
+				</total>
+			</mare>
+		</cerere>
+	</optiune>
+	<optiune titlu="Prepare bid">
+		<cheltuieli>
+			10
+		</cheltuieli>
+		<cerere>
+			<mare>
+				<ani>
+					1
+				</ani>
+				<venit>
+					0
+				</venit>
+				
+				<probabilitate>
+					0,5
+				</probabilitate>
+				<total>
+				
+				</total>
+			</mare>
+			<mare>
+				<ani>
+					1
+				</ani>
+				<venit>
+					-5
+				</venit>
+				<decizie>
+					<probabilitate>
+						0,5
+					</probabilitate>
+					<optiune titlu="155">
+						<cheltuieli>
+							127
+						</cheltuieli>
+						<cerere>
+							<mare>
+								<ani>
+									1
+								</ani>
+								<venit>
+									155
+								</venit>
+								<probabilitate>
+									0,9
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mare>
+							<mica>
+								<ani>
+									1
+								</ani>
+								<venit>
+									127
+								</venit>
+								<probabilitate>
+									0,1
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mica>
+						</cerere>
+					</optiune>
+					<optiune titlu="170">
+						<cheltuieli>
+							127
+						</cheltuieli>
+						<cerere>
+							<mare>
+								<ani>
+									1
+								</ani>
+								<venit>
+									170
+								</venit>
+								<probabilitate>
+									0,75
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mare>
+							<mica>
+								<ani>
+									1
+								</ani>
+								<venit>
+									127
+								</venit>
+								<probabilitate>
+									0,25
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mica>
+						</cerere>
+					</optiune>
+					<optiune titlu="190">
+						<cheltuieli>
+							127
+						</cheltuieli>
+						<cerere>
+							<mare>
+								<ani>
+									1
+								</ani>
+								<venit>
+									190
+								</venit>
+								<probabilitate>
+									0,35
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mare>
+							<mica>
+								<ani>
+									1
+								</ani>
+								<venit>
+									127
+								</venit>
+								<probabilitate>
+									0,65
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mica>
+						</cerere>
+					</optiune>
+					<optiune titlu="abandon">
+						<cheltuieli>
+							0
+						</cheltuieli>
+						<cerere>
+							<mare>
+								<ani>
+									1
+								</ani>
+								<venit>
+									0
+								</venit>
+								<probabilitate>
+									1
+								</probabilitate>								
+								<total>
+								
+								</total>
+							</mare>
+						</cerere>
+					</optiune>
+				</decizie>
+			</mare>
+		</cerere>
+	</optiune>
+</decizie>

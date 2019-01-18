@@ -1,0 +1,9 @@
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\bin\Debug\MPS_XML_Decision.exe.config
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\bin\Debug\MPS_XML_Decision.exe
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\bin\Debug\MPS_XML_Decision.pdb
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.Form1.resources
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.Properties.Resources.resources
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.csproj.GenerateResource.Cache
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.exe
+c:\users\cristian\documents\visual studio 2015\Projects\MPS_XML_Decision\MPS_XML_Decision\obj\Debug\MPS_XML_Decision.pdb
